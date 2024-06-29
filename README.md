@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asier</h1>
-<h3 align="center">A passionate software developer student from Barcelona. I started with “Hello World” in JavaScript, and within a few months, I discovered that I liked it much more than I had imagined as a child. I heard about 42 Network, went through the piscine process in October 2023, and in January 2024, after passing the phase, I started as a student. Since then, I have been studying software development based on C and C++ to assimilate the best foundations of programming.</h3>
+<h3 align="center">Software developer student from Barcelona. I started with “Hello World” in JavaScript, and within a few months, I discovered that I liked it much more than I had imagined as a child. I heard about 42 Network, went through the piscine process in October 2023, and in January 2024, after passing the phase, I started as a student. Since then, I have been studying software development based on C and C++ to assimilate the best foundations of programming.\n
+Constantly learning and pushing the boundaries of my knowledge, I’m dedicated to creating efficient, innovative, and elegant solutions. 
+</h3>
 
 - 🔭 I’m currently studying on **42Barcelona**
 
