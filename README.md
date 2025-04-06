@@ -10,7 +10,7 @@ Constantly learning and pushing the boundaries of my knowledge, I’m dedicated 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/asiernc" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/forta-project/forta/assets/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/50/linkedin.png" alt="linkedin"/>
 </a>
 </p>
 
