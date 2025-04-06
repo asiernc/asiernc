@@ -9,11 +9,9 @@ Constantly learning and pushing the boundaries of my knowledge, I’m dedicated 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/asiernc" target="blank">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="40" height="40">
-  <path d="M100.28 512H9.8V165h90.48zm45.32-343.9c-28.2 0-51.2-23-51.2-51.2s23-51.2 51.2-51.2 51.2 23 51.2 51.2-22.99 51.2-51.2 51.2zm318.4 343.9h-90.48v-196c0-46.6-18.34-78.3-64.27-78.3-35.3 0-56.23 23.8-65.47 46.7-3.47 8.3-4.34 19.9-4.34 31.3v196h-90.48v-392h90.48v56.4c12.6-19.4 35.6-47.8 88.4-47.8 64.6 0 113.9 42.5 113.9 134.1v250.3z"/>
-</svg>
-alt="asiernc" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/asiernc" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/forta-project/forta/assets/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
