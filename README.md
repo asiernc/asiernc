@@ -59,5 +59,4 @@
 
 ![asiernc's Stats](https://github-readme-stats.vercel.app/api?username=asiernc&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asiernc&show_icons=true&locale=en&layout=compact" alt="asiernc" /></p>
+![asiernc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asiernc&theme=dracula&show_icons=true&hide_border=false&layout=compact)
