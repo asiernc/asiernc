@@ -57,7 +57,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
 </p>
 
+![asiernc's Stats](https://github-readme-stats.vercel.app/api?username=asiernc&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
 <p>
-  ![asiernc's Stats](https://github-readme-stats.vercel.app/api?username=asiernc&theme=dracula&show_icons=true&hide_border=false&count_private=true)
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asiernc&show_icons=true&locale=en&layout=compact" alt="asiernc" /></p>
