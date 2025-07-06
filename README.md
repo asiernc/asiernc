@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asier</h1>
 <h3 align="center">
-Software developer from Barcelona, recently graduated from the Common Core at 42 Barcelona — an intensive, project-based program focused on low-level programming, algorithms, and system-level development.
-I’ve built a strong foundation in C and C++, working on topics like memory management, data structures, multithreading, and object-oriented programming. Along the way, I’ve also gained experience with Bash scripting, Docker, and networking.
-I’m passionate about problem-solving, learning by doing, and writing clean, efficient code. Now that I’ve completed the core program, I’m diving deeper into new technologies and looking to contribute to real-world projects and open-source.
+Software developer from Barcelona, recently graduated from the Common Core at 42 Barcelona — an intensive, project-based program focused on low-level programming, algorithms, and system-level development.\\n
+I’ve built a strong foundation in C and C++, working on topics like memory management, data structures, multithreading, and object-oriented programming. Along the way, I’ve also gained experience with Bash scripting, Docker, and networking.\n
+I’m passionate about problem-solving, learning by doing, and writing clean, efficient code. Now that I’ve completed the core program, I’m diving deeper into new technologies and looking to contribute to real-world projects and open-source.\n
 </h3>
 
 - 🔭 I’m currently studying on **42Barcelona**
